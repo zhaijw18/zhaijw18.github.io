@@ -1,0 +1,48 @@
+# jemdoc: addcss{jemdoc.css}
+# jemdoc: addcss{middle-layout.css}
+# jemdoc: nofooter
+= Jianwang Zhai
+
+~~~
+{}{img_left}{zhaijianwang.jpg}{150}{150}{Jianwang Zhai}
+Jianwang Zhai, Ph.D. student\n
+[http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology]\n
+[https://www.tsinghua.edu.cn/ Tsinghua University]\n
+Supervisor: [https://www.cs.tsinghua.edu.cn/info/1111/3491.htm/ Professor Yici Cai]
+~~~
+
+== BIOGRAPHY
+I am currently a fourth year Ph.D. student at [https://www.tsinghua.edu.cn the Department of Computer Science and Technology] of [http://www.cs.tsinghua.edu.cn/">The Chinese University of Hong Kong] under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu].Previously, I received my B.Eng. from [https://www.uestc.edu.cn/ The University of Electronic Science and Technology of China (UESTC)] in 2020.
+== CONTACT
+Email: zhaijw18@mails.tsinghua.edu.cn
+GitHub: [http://www.github.com/zhaijw18 zhaijw18]
+LinkedIn: [https://www.linkedin.com/in/chen-bai-b48b95152/ Chen BAI]
+== RESEARCH INTERESTS
+- EDA / VLSI
+- Machine Learning
+
+== EDUCATION
+- Ph.D. Computer Science and Technology, [https://www.tsinghua.edu.cn Tsinghua University],
+  Aug. 2018 -
+- B.E.  Communication Engineering,
+  [https://www.bjtu.edu.cn/ Beijing Jiaotong University], Sep. 2014 - Jul. 2018
+
+== PUBLICATION
+- Qi Sun, <b>Chen Bai</b>, Hao Geng, Bei Yu, "Deep Neural Network Hardware Deployment Optimization via Advanced Active Learning", IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021.
+
+== EXPERIENCE
+- Sensetime, Beijing, P.R. China, Oct. 2019 - Apr. 2020
+  Research Intern, Intelligent Video Generation Group
+  Topic: Deep Learning for Talking Face
+- Intel Aisa-Pacific R. & D. Center, Shanghai, P.R. China, Feb. 2019 - Jul. 2019
+  Engineering Intern, Web Runtime Optimization Group
+  Topic: Optimization of Chrome for IA (i.e., Intel Architecture) Chromebooks
+- Visiting Student, University of Maryland, Washington, D.C., U.S.A., Jul. 2017 - Aug. 2017
+  Topic: Participate leadership-related courses, School of Public Policy
+
+== SELECTED AWARDS AND HONORS
+- Full Postgraduate Scholarship, The Chinese University of Hong Kong, 2020 - 2024
+- Outstanding Graduate, The Education Department of Sichuan Province, 2020
+- National Scholarship, Ministry of Education, 2017 - 2018
+- National Scholarship, Ministry of Education, 2016 - 2017
+- Meritorious Winner of Interdisciplinary Contest on Modeling (i.e., ICM), COMAP, MAA, ASA, INFORMS, 2018
