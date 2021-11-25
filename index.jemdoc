@@ -14,13 +14,15 @@ GitHub: [http://www.github.com/zhaijw18 zhaijw18]
 ~~~
 
 == BIOGRAPHY
- I am Jianwang Zhai (翟建旺 in Chinese), currently a fourth-year Ph.D. student at the [https://www.tsinghua.edu.cn/ Department of Computer Science and Technology (CST)], [https://www.tsinghua.edu.cn/ Tsinghua University (THU)].
+ I am Jianwang Zhai (翟建旺 in Chinese), currently a fourth-year Ph.D. student at the [https://www.tsinghua.edu.cn/ Department of Computer Science and Technology (CST)], [https://www.tsinghua.edu.cn/ Tsinghua University].
  I am a member of Electronic Design Automation Laboratory of Tsinghua University and under the supervision of Prof. Yici Cai. 
  Previously, I received my B.Eng. from [https://www.bjtu.edu.cn/ Beijing Jiaotong University (BJTU)] in 2018.
 
 == RESEARCH INTERESTS
 - EDA / VLSI
-- Machine Learning
+- Power Modeling
+- Design Space Exploration
+- Physical Design
 
 == EDUCATION
 - Ph.D. Computer Science and Technology, [https://www.tsinghua.edu.cn Tsinghua University], Aug. 2018 -
@@ -32,9 +34,10 @@ GitHub: [http://www.github.com/zhaijw18 zhaijw18]
 - *Jianwang Zhai*, Yici Cai, Qiang Zhou, "Placement and Routing Methods Considering Shape Constraints of JTL for RSFQ Circuits", IEEE Transactions on Circuits and Systems II: Express Briefs (*TCAS-II*), vol. 68, no. 5, pp. 1571-1575, 2021. 
 
 == SELECTED AWARDS
-- Comprehensive Excellent Second-Class Scholarship, Tsinghua University, 2020.
+- William J. McCalla ICCAD Best Paper Award, The IEEE Council on Electronic Design Automation (CEDA) and the ACM Special Interest Group on Design Automation (ACM SIGDA), 2021
+- Comprehensive Excellent Scholarship, Tsinghua University, 2020.
 - Outstanding Graduate, The Education Committee of Beijing, 2018.
 - May 4th Medal, Beijing Jiaotong University, 2018.
 - Excellent Student, The Education Committee of Beijing, 2017.
 - Baosteel Scholarship, Baosteel Education Foundation, 2017.
-- China National Scholarship, Ministry of Education of China, 2016.
+- National Scholarship, Ministry of Education of China, 2016.
