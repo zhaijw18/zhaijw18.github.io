@@ -5,7 +5,7 @@
 
 ~~~
 {}{img_left}{zhaijianwang.jpg}{150}{150}{Jianwang Zhai}
-Jianwang Zhai, Ph.D. student\n
+Jianwang Zhai, Ph.D. candidate\n
 [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], [https://www.tsinghua.edu.cn/ Tsinghua University]\n
 Supervisor: [https://www.cs.tsinghua.edu.cn/info/1111/3491.htm Professor Yici Cai]\n
 Office: Room 8-404, East Main Building, Tsinghua University\n
@@ -14,7 +14,7 @@ GitHub: [http://www.github.com/zhaijw18 zhaijw18]
 ~~~
 
 == BIOGRAPHY
- I am Jianwang Zhai (翟建旺 in Chinese), currently a fourth-year Ph.D. student at the [https://www.tsinghua.edu.cn/ Department of Computer Science and Technology (CST)], [https://www.tsinghua.edu.cn/ Tsinghua University].
+ I am Jianwang Zhai (翟建旺 in Chinese), currently a Ph.D. student at the [https://www.tsinghua.edu.cn/ Department of Computer Science and Technology (CST)], [https://www.tsinghua.edu.cn/ Tsinghua University].
  I am a member of Electronic Design Automation Laboratory of Tsinghua University and under the supervision of Prof. Yici Cai. 
  Previously, I received my B.Eng. from [https://www.bjtu.edu.cn/ Beijing Jiaotong University (BJTU)] in 2018.
 
@@ -25,19 +25,29 @@ GitHub: [http://www.github.com/zhaijw18 zhaijw18]
 - Physical Design
 
 == EDUCATION
-- Ph.D. Computer Science and Technology, [https://www.tsinghua.edu.cn Tsinghua University], Aug. 2018 -
+- Ph.D. Computer Science and Technology, [https://www.tsinghua.edu.cn Tsinghua University], Aug. 2018 - Present
 - B.E.  Communication Engineering, [https://www.bjtu.edu.cn/ Beijing Jiaotong University], Sep. 2014 - Jul. 2018
 
 == PUBLICATIONS
-- *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01–04, 2021.
-- Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, MD Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01–04, 2021. {{<font color=red size=+0.5><b>}}(William J. McCalla Best Paper Award){{</b></font>}}
-- *Jianwang Zhai*, Yici Cai, Qiang Zhou, "Placement and Routing Methods Considering Shape Constraints of JTL for RSFQ Circuits", IEEE Transactions on Circuits and Systems II: Express Briefs (*TCAS-II*), vol. 68, no. 5, pp. 1571-1575, 2021. 
+
+=== Conference papers
+- \[C3\] *Jianwang Zhai*, Yici Cai, Bei Yu, "Microarchitecture Power Modeling via Artificial Neural Network and Transfer Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo Odaiba Miraikan, Jan. 16-19, 2023. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
+- \[C2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01–04, 2021.
+- \[C1\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, MD Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01–04, 2021. {{<font color=red size=+0.5><b>}}(William J. McCalla Best Paper Award){{</b></font>}}
+
+=== Journal papers
+- \[J2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A RISC-V BOOM Microarchitecture Power Modeling Framework", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J1\] *Jianwang Zhai*, Yici Cai, Qiang Zhou, "Placement and Routing Methods Considering Shape Constraints of JTL for RSFQ Circuits", IEEE Transactions on Circuits and Systems II: Express Briefs (*TCAS-II*), vol. 68, no. 5, pp. 1571-1575, 2021.
+ 
 
 == SELECTED AWARDS
 - William J. McCalla ICCAD Best Paper Award, The IEEE Council on Electronic Design Automation (CEDA) and the ACM Special Interest Group on Design Automation (ACM SIGDA), 2021
-- Comprehensive Excellent Scholarship, Tsinghua University, 2020.
+- Huawei Scholarship, Tsinghua University, 2022.
+- Longfor Scholarship, Tsinghua University, 2022.
+- Comprehensive Excellent Scholarship, Tsinghua University, 2020 & 2021.
 - Outstanding Graduate, The Education Committee of Beijing, 2018.
 - May 4th Medal, Beijing Jiaotong University, 2018.
 - Excellent Student, The Education Committee of Beijing, 2017.
 - Baosteel Scholarship, Baosteel Education Foundation, 2017.
 - National Scholarship, Ministry of Education of China, 2016.
+- National Encouragement Scholarship, Ministry of Education of China, 2015.
