@@ -5,18 +5,18 @@
 
 ~~~
 {}{img_left}{zhaijianwang.jpg}{150}{150}{Jianwang Zhai}
-Jianwang Zhai, Ph.D. candidate\n
-[http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], [https://www.tsinghua.edu.cn/ Tsinghua University]\n
-Supervisor: [https://www.cs.tsinghua.edu.cn/info/1111/3491.htm Professor Yici Cai]\n
-Office: Room 8-404, East Main Building, Tsinghua University\n
-Email: zhaijw18@mails.tsinghua.edu.cn\n
-GitHub: [http://www.github.com/zhaijw18 zhaijw18]
+Jianwang Zhai, Ph.D. \n
+[https://ic.bupt.edu.cn/ School of Integrated Circuits] \n
+[https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications] \n
+Office: Room 111, Scientific-Research Building \n
+Email: zhaijw@bupt.edu.cn\n
 ~~~
 
 == BIOGRAPHY
- I am Jianwang Zhai (翟建旺 in Chinese), currently a Ph.D. student at the [https://www.tsinghua.edu.cn/ Department of Computer Science and Technology (CST)], [https://www.tsinghua.edu.cn/ Tsinghua University].
- I am a member of Electronic Design Automation Laboratory of Tsinghua University and under the supervision of Prof. Yici Cai. 
- Previously, I received my B.Eng. from [https://www.bjtu.edu.cn/ Beijing Jiaotong University (BJTU)] in 2018.
+ I am Jianwang Zhai (翟建旺 in Chinese), currently an assistant professor at [https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications (BUPT)]. 
+ Prior to that, I got my Ph.D. in Computer Science and Technology from [https://www.tsinghua.edu.cn/ Tsinghua University (THU)] in 2023, and received my B.Eng. from [https://www.bjtu.edu.cn/ Beijing Jiaotong University (BJTU)] in 2018.
+
+ My research interests include machine learning and optimization methods with applications in EDA, especially power modeling, design space exploration, and physical design.
 
 == RESEARCH INTERESTS
 - EDA / VLSI
@@ -25,13 +25,13 @@ GitHub: [http://www.github.com/zhaijw18 zhaijw18]
 - Physical Design
 
 == EDUCATION
-- Ph.D. Computer Science and Technology, [https://www.tsinghua.edu.cn Tsinghua University], Aug. 2018 - Present
-- B.E.  Communication Engineering, [https://www.bjtu.edu.cn/ Beijing Jiaotong University], Sep. 2014 - Jul. 2018
+- Ph.D. Computer Science and Technology, [https://www.tsinghua.edu.cn Tsinghua University], Sep. 2018 - Jun. 2023
+- B.E.  Communication Engineering, [https://www.bjtu.edu.cn/ Beijing Jiaotong University], Sep. 2014 - Jun. 2018
 
 == PUBLICATIONS
 
 === Conference papers
-- \[C3\] *Jianwang Zhai*, Yici Cai, Bei Yu, "Microarchitecture Power Modeling via Artificial Neural Network and Transfer Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo Odaiba Miraikan, Jan. 16-19, 2023. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
+- \[C3\] *Jianwang Zhai*, Yici Cai, Bei Yu, "Microarchitecture Power Modeling via Artificial Neural Network and Transfer Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo Odaiba Miraikan, Jan. 16-19, 2023. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
 - \[C2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01–04, 2021.
 - \[C1\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, MD Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01–04, 2021. {{<font color=red size=+0.5><b>}}(William J. McCalla Best Paper Award){{</b></font>}}
 
@@ -41,7 +41,8 @@ GitHub: [http://www.github.com/zhaijw18 zhaijw18]
  
 
 == SELECTED AWARDS
-- William J. McCalla ICCAD Best Paper Award, The IEEE Council on Electronic Design Automation (CEDA) and the ACM Special Interest Group on Design Automation (ACM SIGDA), 2021
+- Best Paper Award Nomination, ASP-DAC, 2023
+- William J. McCalla Best Paper Award, ICCAD, 2021
 - Huawei Scholarship, Tsinghua University, 2022.
 - Longfor Scholarship, Tsinghua University, 2022.
 - Comprehensive Excellent Scholarship, Tsinghua University, 2020 & 2021.
