@@ -32,11 +32,13 @@ Email: zhaijw@bupt.edu.cn\n
 
 === Conference papers
 - \[C3\] *Jianwang Zhai*, Yici Cai, Bei Yu, "Microarchitecture Power Modeling via Artificial Neural Network and Transfer Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo Odaiba Miraikan, Jan. 16-19, 2023. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
-- \[C2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01–04, 2021.
-- \[C1\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, MD Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01–04, 2021. {{<font color=red size=+0.5><b>}}(William J. McCalla Best Paper Award){{</b></font>}}
+- \[C2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01-04, 2021.
+- \[C1\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, Martin D.F. Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01-04, 2021. {{<font color=red size=+0.5><b>}}(William J. McCalla Best Paper Award){{</b></font>}}
 
 === Journal papers
-- \[J2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A RISC-V BOOM Microarchitecture Power Modeling Framework", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J4\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, Martin D.F. Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+- \[J3\] *Jianwang Zhai*, Yici Cai, "Microarchitecture Design Space Exploration via Pareto-driven Active Learning", accepted by IEEE Transactions on Very Large Scale Integration Systems (*TVLSI*).
+- \[J2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A RISC-V BOOM Microarchitecture Power Modeling Framework", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 42, no. 01, pp. 243-256, 2023.
 - \[J1\] *Jianwang Zhai*, Yici Cai, Qiang Zhou, "Placement and Routing Methods Considering Shape Constraints of JTL for RSFQ Circuits", IEEE Transactions on Circuits and Systems II: Express Briefs (*TCAS-II*), vol. 68, no. 5, pp. 1571-1575, 2021.
  
 
