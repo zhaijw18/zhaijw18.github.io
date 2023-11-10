@@ -31,6 +31,7 @@ Email: zhaijw@bupt.edu.cn\n
 == PUBLICATIONS
 
 === Conference papers
+- \[C4\] Jingyu Jia, *Jianwang Zhai\#*, Kang Zhao, "Fast Estimation for Electromigration Nucleation Time Based on Random Activation Energy Model", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Valencia, Spain, Mar. 25-27, 2024.
 - \[C3\] *Jianwang Zhai*, Yici Cai, Bei Yu, "Microarchitecture Power Modeling via Artificial Neural Network and Transfer Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo Odaiba Miraikan, Jan. 16-19, 2023. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
 - \[C2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01-04, 2021.
 - \[C1\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, Martin D.F. Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01-04, 2021. {{<font color=red size=+0.5><b>}}(William J. McCalla Best Paper Award){{</b></font>}}
