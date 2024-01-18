@@ -1,3 +1,3 @@
 # Jianwang Zhai's website
 
-* zhaijw18@mails.tsinghua.edu.cn
+* zhaijw@bupt.edu.cn
