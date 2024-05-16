@@ -5,7 +5,7 @@
 
 ~~~
 {}{img_left}{zhaijianwang.jpg}{150}{150}{Jianwang Zhai}
-Jianwang Zhai, Ph.D. \n
+Jianwang Zhai, Ph.D., Assistant Professor \n
 [https://ic.bupt.edu.cn/ School of Integrated Circuits] \n
 [https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications] \n
 Office: Room 111, Scientific-Research Building \n
@@ -31,7 +31,7 @@ Email: zhaijw@bupt.edu.cn\n
 == PUBLICATIONS
 * denotes equal contribution, \# denotes corresponding author.
 
-=== Conference papers
+=== Conference Papers
 - \[C9\] Feng Guo\*, Jiawei Liu\*, *Jianwang Zhai\#*, Jingyu Jia, Kang Zhao, Chuan Shi\#, "PGAU: Static IR Drop Analysis for Power Grid using Attention U-Net Architecture and Label Distribution Smoothing", ACM Great Lakes Symposium on VLSI (*GLSVLSI*), FL, USA, Jun. 12-14, 2024.
 - \[C8\] Zirui Li, *Jianwang Zhai\#*, Zixuan Li, Zhongdong Qi, Kang Zhao, "Effective Resource Model and Cost Scheme for Maze Routing in 3D Global Routing", IEEE International Symposium on Circuits and Systems (*ISCAS*), Singapore, May. 19-22, 2024.
 - \[C7\] Renjing Hou, *Jianwang Zhai*, Yajun Wang, Zhe Lin, Kang Zhao, "Array Partitioning Method for Streaming Dataflow Optimization in High-level Synthesis", International Symposium of Electronics Design Automation (*ISEDA*), Xi'an, China, May. 10-13, 2024.
@@ -42,8 +42,8 @@ Email: zhaijw@bupt.edu.cn\n
 - \[C2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01-04, 2021.
 - \[C1\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, Martin D.F. Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01-04, 2021. {{<font color=red size=+0.5><b>}}(William J. McCalla Best Paper Award){{</b></font>}}
 
-=== Journal papers
-- \[J5\] *Jianwang Zhai*, Zichao Ling, Chen Bai, Kang Zhao, Bei Yu, "Machine Learning for Microarchitecture Power Modeling and Design Space Exploration: A Survey ", accepted by Journal of Computer Research and Development (*J-CRAD*).
+=== Journal Papers
+- \[J5\] *Jianwang Zhai*, Zichao Ling, Chen Bai, Kang Zhao, Bei Yu, "Machine Learning for Microarchitecture Power Modeling and Design Space Exploration: A Survey ", Journal of Computer Research and Development (*J-CRAD*), vol. 61, no. 6, pp. 1-19, 2024. (in Chinese)
 - \[J4\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, Martin D.F. Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 29, no. 01, pp. 1-23, 2024.
 - \[J3\] *Jianwang Zhai*, Yici Cai, "Microarchitecture Design Space Exploration via Pareto-driven Active Learning", IEEE Transactions on Very Large Scale Integration Systems (*TVLSI*), vol. 31, no. 11, pp. 1727-1739, 2023.
 - \[J2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A RISC-V BOOM Microarchitecture Power Modeling Framework", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 42, no. 01, pp. 243-256, 2023.
