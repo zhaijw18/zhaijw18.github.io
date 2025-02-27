@@ -32,6 +32,10 @@ Email: zhaijw@bupt.edu.cn\n
 * denotes equal contribution, \# denotes corresponding author.
 
 === Conference Papers
+- \[C20\] Feng Guo, Yueyue Xi, *Jianwang Zhai\#*, Jingyu Jia, Jiawei Liu, Kang Zhao, Chuan Shi\#, "IRGNN: A Graph-based Framework Integrating Numerical Solution and Point Cloud for Static IR Drop Prediction", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
+- \[C19\] Yuyang Ye, Mingwei He, Lizheng Ren, *Jianwang Zhai\#*, Tinghuan Chen, Jun Yang, Longxing Shi, "Truly Pre-Routing Timing Prediction via Considering Power Delivery Networks", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
+- \[C18\] Kai Shi, Zhe Lin, Xinya Luan, Jianwang Zhai, Kang Zhao, "VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
+- \[C17\] Xinya Luan, Zhe Lin, Kai Shi, Jianwang Zhai, Kang Zhao, "HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
 - \[C16\] Zixuan Li\*, Kanglin Tian\*, *Jianwang Zhai\#*, Zirui Li,  Kang Zhao, "HieRFP: A Hierarchical Recognition and Floorplanning Framework for Reusable Modules", IEEE International Symposium on Circuits and Systems (*ISCAS*), London, UK, May. 25–28, 2025.
 - \[C15\] Jiawei Liu, Zhiyan Liu, Xun He, *Jianwang Zhai\#*, Zhengyuan Shi, Qiang Xu, Bei Yu, Chuan Shi\#, "WideGate: Beyond Directed Acyclic Graph Learning in Subcircuit Boundary Prediction", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Lyon, France, Mar. 31–Apr. 02, 2025.
 - \[C14\] Feng Guo, *Jianwang Zhai\#*, Jingyu Jia, Jiawei Liu, Kang Zhao, Bei Yu, Chuan Shi\#, "IR-Fusion: A Fusion Framework for Static IR Drop Analysis Combining Numerical Solution and Machine Learning", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Lyon, France, Mar. 31–Apr. 02, 2025.
