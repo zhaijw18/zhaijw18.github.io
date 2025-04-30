@@ -31,7 +31,12 @@ Email: zhaijw@bupt.edu.cn\n
 == PUBLICATIONS
 * denotes equal contribution, \# denotes corresponding author.
 
+=== Accpted
+
+- \[J6\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang\#, Zixi Huang, Dan Wu, Yida Wang, Kang Zhao, Ming Lei, Zhaofeng He\#, "DrlGoFPGA: FPGA Global Placement Considering Input-Output Buffer Based on Deep Reinforcement Learning and Gradient Optimization", IEEE Transactions on Circuits and Systems I: Regular Papers (*TCAS-I*), accpted.
+
 === 2025
+
 - \[C24\] Zichao Ling, Lin Li, Yi Huang, Yixin Xuan, *Jianwang Zhai\#*, Kang Zhao, "AuxiliarySRAM: Exploring Elastic On-Chip Memory in 2.5D Chiplet Systems Design", ACM Great Lakes Symposium on VLSI (*GLSVLSI*), New Orleans, Jun. 30–July 2, 2025.
 - \[C23\] Mingyu Zhao, Jiawei Liu, *Jianwang Zhai\#*, Chuan Shi\#, "MILS: Modality Interaction Driven Learning for Logic Synthesis", ACM Great Lakes Symposium on VLSI (*GLSVLSI*), New Orleans, Jun. 30–July 2, 2025.
 - \[C22\] Feng Guo, Yueyue Xi, *Jianwang Zhai\#*, Jingyu Jia, Jiawei Liu, Kang Zhao, Chuan Shi\#, "IRGNN: A Graph-based Framework Integrating Numerical Solution and Point Cloud for Static IR Drop Prediction", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
@@ -48,6 +53,7 @@ Email: zhaijw@bupt.edu.cn\n
 - \[C11\] Guande Dong\*, *Jianwang Zhai\*\#*, Hongtao Cheng, Xiao Yang, Chuan Shi, Kang Zhao\#, "PIRLLS: Pretraining with Imitation and RL Finetuning for Logic Synthesis", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo, Jan. 20-23, 2025.
 
 === 2024
+
 - \[C10\] Jiawei Liu, *Jianwang Zhai\#*, Mingyu Zhao, Zhe Lin, Bei Yu, Chuan Shi\#, "PolarGate: Breaking the Functionality Representation Bottleneck of And-Inverter Graph Neural Network", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), New Jersey, Oct. 27-31, 2024.
 - \[C9\] Feng Guo\*, Jiawei Liu\*, *Jianwang Zhai\#*, Jingyu Jia, Kang Zhao, Chuan Shi\#, "PGAU: Static IR Drop Analysis for Power Grid using Attention U-Net Architecture and Label Distribution Smoothing", ACM Great Lakes Symposium on VLSI (*GLSVLSI*), FL, USA, Jun. 12-14, 2024.
 - \[C8\] Zirui Li, *Jianwang Zhai\#*, Zixuan Li, Zhongdong Qi, Kang Zhao, "Effective Resource Model and Cost Scheme for Maze Routing in 3D Global Routing", IEEE International Symposium on Circuits and Systems (*ISCAS*), Singapore, May. 19-22, 2024.
@@ -59,11 +65,13 @@ Email: zhaijw@bupt.edu.cn\n
 - \[J4\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, Martin D.F. Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 29, no. 01, pp. 1-23, 2024.
 
 === 2023
+
 - \[C3\] *Jianwang Zhai*, Yici Cai, Bei Yu, "Microarchitecture Power Modeling via Artificial Neural Network and Transfer Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo Odaiba Miraikan, Jan. 16-19, 2023. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
 - \[J3\] *Jianwang Zhai*, Yici Cai, "Microarchitecture Design Space Exploration via Pareto-driven Active Learning", IEEE Transactions on Very Large Scale Integration Systems (*TVLSI*), vol. 31, no. 11, pp. 1727-1739, 2023.
 - \[J2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A RISC-V BOOM Microarchitecture Power Modeling Framework", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 42, no. 01, pp. 243-256, 2023. 
 
 === 2021
+
 - \[C2\] *Jianwang Zhai*, Chen Bai, Binwu Zhu, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01-04, 2021.
 - \[C1\] Chen Bai, Qi Sun, *Jianwang Zhai*, Yuzhe Ma, Bei Yu, Martin D.F. Wong, "BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 01-04, 2021. {{<font color=red size=+0.5><b>}}(William J. McCalla Best Paper Award){{</b></font>}}
 - \[J1\] *Jianwang Zhai*, Yici Cai, Qiang Zhou, "Placement and Routing Methods Considering Shape Constraints of JTL for RSFQ Circuits", IEEE Transactions on Circuits and Systems II: Express Briefs (*TCAS-II*), vol. 68, no. 5, pp. 1571-1575, 2021.
