@@ -35,6 +35,10 @@ Email: zhaijw@bupt.edu.cn\n
 
 - \[J6\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang\#, Zixi Huang, Dan Wu, Yida Wang, Kang Zhao, Ming Lei, Zhaofeng He\#, "DrlGoFPGA: FPGA Global Placement Considering Input-Output Buffer Based on Deep Reinforcement Learning and Gradient Optimization", accpted by IEEE Transactions on Circuits and Systems I: Regular Papers (*TCAS-I*).
 
+=== 2026
+- \[C27\] Yijun Chen, Haoyuan Li, Chunyan Pei, *Jianwang Zhai\#*, Kang Zhao, Wenjian Yu\#, "Timing-Aware Optimization of Die-Level Routing and TDM Assignment for Multi-FPGA Systems", IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Hong Kong, Jan. 19–22, 2026.
+- \[C26\] Zibo Hu, Zhe Lin, Renjing Hou, Xingyu Qin, *Jianwang Zhai*, Kang Zhao, "HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis", IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Hong Kong, Jan. 19–22, 2026.
+
 === 2025
 - \[C25\] Shan Shen, Shenglu Hua, Jiajun Zou, Jiawei Liu, *Jianwang Zhai\#*, Chuan Shi, Wenjian Yu\#, "Transferable parasitic estimation via graph contrastive learning and label rebalancing in AMS circuits", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Munich, Germany, Oct. 26-30, 2025.
 - \[C24\] Zichao Ling, Lin Li, Yi Huang, Yixin Xuan, *Jianwang Zhai\#*, Kang Zhao, "AuxiliarySRAM: Exploring Elastic On-Chip Memory in 2.5D Chiplet Systems Design", ACM Great Lakes Symposium on VLSI (*GLSVLSI*), New Orleans, Jun. 30–July 2, 2025.
