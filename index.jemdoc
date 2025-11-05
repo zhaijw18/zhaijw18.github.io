@@ -33,7 +33,6 @@ Email: zhaijw@bupt.edu.cn\n
 
 === Accpted
 - \[J7\] Guande Dong\*, Hongtao Cheng\*, *Jianwang Zhai\#*, Xiao Yang, Chuan Shi, Kang Zhao, "ORL-LO: Offline RL for Pre-training and Fine-tuning in Logic Optimization", accpted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
-- \[J6\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang\#, Zixi Huang, Dan Wu, Yida Wang, Kang Zhao, Ming Lei, Zhaofeng He\#, "DrlGoFPGA: FPGA Global Placement Considering Input-Output Buffer Based on Deep Reinforcement Learning and Gradient Optimization", accpted by IEEE Transactions on Circuits and Systems I: Regular Papers (*TCAS-I*).
 
 === 2026
 - \[C31\] Xingyu Qin, Guande Dong, *Jianwang Zhai\#*, Kang Zhao, "DynaOpt: A Heterogeneous Logic Optimization Framework with Dynamic Sequence Generation", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–Apr. 22, 2026.
@@ -59,6 +58,7 @@ Email: zhaijw@bupt.edu.cn\n
 - \[C13\] Shixin Chen, Hengyuan Zhang, Zichao Ling, *Jianwang Zhai\#*, Bei Yu\#, "The Survey of 2.5D Integrated Architecture: An EDA perspective", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo, Jan. 20-23, 2025. (*Invited Paper*)
 - \[C12\] Zirui Li\*, Kanglin Tian\*, *Jianwang Zhai\#*, Zixuan Li, Shixiong Kai, Siyuan Xu, Bei Yu, Kang Zhao, "FTAFP: A Feedthrough-Aware Floorplanner for Hierarchical Design of Large-Scale SoCs", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo, Jan. 20-23, 2025.
 - \[C11\] Guande Dong\*, *Jianwang Zhai\*\#*, Hongtao Cheng, Xiao Yang, Chuan Shi, Kang Zhao\#, "PIRLLS: Pretraining with Imitation and RL Finetuning for Logic Synthesis", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo, Jan. 20-23, 2025.
+- \[J6\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang\#, Zixi Huang, Dan Wu, Yida Wang, Kang Zhao, Ming Lei, Zhaofeng He\#, "DrlGoFPGA: FPGA Global Placement Considering Input-Output Buffer Based on Deep Reinforcement Learning and Gradient Optimization", IEEE Transactions on Circuits and Systems I: Regular Papers (*TCAS-I*), vol. 72, no. 11, pp. 7016-7029, 2025. 
 
 === 2024
 
