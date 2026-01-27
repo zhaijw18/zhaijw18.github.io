@@ -5,7 +5,7 @@
 
 ~~~
 {}{img_left}{zhaijianwang.jpg}{150}{150}{Jianwang Zhai}
-Jianwang Zhai, Ph.D., Assistant Professor \n
+Jianwang Zhai, Ph.D., Associate Professor \n
 [https://ic.bupt.edu.cn/ School of Integrated Circuits] \n
 [https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications] \n
 Office: Room 111, Scientific-Research Building \n
@@ -13,7 +13,7 @@ Email: zhaijw@bupt.edu.cn\n
 ~~~
 
 == BIOGRAPHY
- I am Jianwang Zhai (翟建旺 in Chinese), currently an assistant professor at [https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications (BUPT)]. 
+ I am Jianwang Zhai (翟建旺 in Chinese), currently an associate professor at [https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications (BUPT)]. 
  Prior to that, I got my Ph.D. in Computer Science and Technology from [https://www.tsinghua.edu.cn/ Tsinghua University (THU)] in 2023, and received my B.Eng. from [https://www.bjtu.edu.cn/ Beijing Jiaotong University (BJTU)] in 2018.
 
  My research interests include machine learning and optimization methods with applications in EDA, especially power modeling, design space exploration, and physical design.
@@ -35,10 +35,12 @@ Email: zhaijw@bupt.edu.cn\n
 - \[J7\] Guande Dong\*, Hongtao Cheng\*, *Jianwang Zhai\#*, Xiao Yang, Chuan Shi, Kang Zhao, "ORL-LO: Offline RL for Pre-training and Fine-tuning in Logic Optimization", accpted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 
 === 2026
+- \[C34\] Mingyu Zhao, Xun He, Jiawei Liu, *Jianwang Zhai\#*, Chuan Shi\#, "Topology Matters in RTL Circuit Representation Learning", International Conference on Learning Representations (*ICLR*), Rio de Janeiro, Brazil, Apr. 23–27, 2026.
+- \[C33\] Donghao Guo, Zhe Lin, *Jianwang Zhai*, Kang Zhao, "Performance Pragma-Based Design Space Pruning and Exploration for High-Level Synthesis", IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May. 24–227, 2026.
 - \[C32\] Xingyu Qin, Guande Dong, *Jianwang Zhai\#*, Kang Zhao, "DynaOpt: A Heterogeneous Logic Optimization Framework with Dynamic Sequence Generation", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–Apr. 22, 2026.
 - \[C31\] Zhenghao Chen, Yuan Pu, Hairuo Han, Yuntao Nie, Jiajun Qin, Yuhan Qin, Tairu Qiu, Zhuolun He, *Jianwang Zhai\#*, Bei Yu, Kang Zhao, "MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–Apr. 22, 2026.
 - \[C30\] Yingxin Zeng, Binghao Cheng, *Jianwang Zhai*, Kang Zhao, Zhe Lin, "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–Apr. 22, 2026.
-- \[C29\] Shixin Chen, Hengyuan Zhang, *Jianwang Zhai\#*, Bei Yu\#, "CHASE: A CHiplet Architecture Simulation and Exploration Framework with Decoupled Multi-Fidelity Optimization", ACM International Symposium on Physical Design (ISPD), Bonn, Mar. 15–18, 2026.
+- \[C29\] Shixin Chen, Hengyuan Zhang, *Jianwang Zhai\#*, Bei Yu\#, "CHASE: A CHiplet Architecture Simulation and Exploration Framework with Decoupled Multi-Fidelity Optimization", ACM International Symposium on Physical Design (*ISPD*), Bonn, Mar. 15–18, 2026.
 - \[C28\] Yijun Chen, Haoyuan Li, Chunyan Pei, *Jianwang Zhai*, Kang Zhao, Wenjian Yu, "Timing-Aware Optimization of Die-Level Routing and TDM Assignment for Multi-FPGA Systems", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Hong Kong, Jan. 19–22, 2026.
 - \[C27\] Zibo Hu, Zhe Lin, Renjing Hou, Xingyu Qin, *Jianwang Zhai*, Kang Zhao, "HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Hong Kong, Jan. 19–22, 2026.
 
@@ -88,7 +90,7 @@ Email: zhaijw@bupt.edu.cn\n
 
 == SELECTED AWARDS
 - Best Paper Award Nomination, GLSVLSI, 2025.
-- Jingying Cup (菁英杯, top-3 from all 500+ teams), EDA Elite Challenge, 2024.
+- Jingying Cup (菁英杯, top-3 from all 500+ teams), EDA Elite Challenge Contest, 2024.
 - Best Ph.D. Dissertation, EDA Ecosystem Development Acceleartor, 2024.
 - Best Paper Award Nomination, ASP-DAC, 2023.
 - William J. McCalla Best Paper Award, ICCAD, 2021.
