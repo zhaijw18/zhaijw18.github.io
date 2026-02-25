@@ -35,6 +35,9 @@ Email: zhaijw@bupt.edu.cn\n
 - \[J7\] Guande Dong\*, Hongtao Cheng\*, *Jianwang Zhai\#*, Xiao Yang, Chuan Shi, Kang Zhao, "ORL-LO: Offline RL for Pre-training and Fine-tuning in Logic Optimization", accpted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 
 === 2026
+- \[C37\] Feng Guo\*, Yueyue Xi\*, Jingyu Jia, Jiawei Liu, Tianshu Hou, Yuyang Ye, *Jianwang Zhai\#*, Kang Zhao, Chuan Shi\#, "GEMIR: Graph-Based Joint Modeling of Electromigration and IR Drop for Power Grid", ACM/IEEE Design Automation Conference (*DAC*), Long Beach, USA, Jul. 26–29, 2026.
+- \[C36\] Zixuan Li\*, Kanglin Tian\*, Fan Hu, Zirui Li, Xinyue Wu, Hengyuan Zhang, Shixin Chen, *Jianwang Zhai\#*, Xinfei Guo\#, Kang Zhao, "ChiPlanner: Physically-Aware and Timing-Driven Design Planner for 2.5D Multi-Chiplet Systems", ACM/IEEE Design Automation Conference (*DAC*), Long Beach, USA, Jul. 26–29, 2026.
+- \[C35\] Donger Luo, Yihong Yi, Xinheng Li, Tianyi Li, *Jianwang Zhai*, Qi Sun, Cheng Zhuo, Hao Geng, "Compilation Tells Energy: Rethinking Power Modeling for DNN Accelerator Agile Design", ACM/IEEE Design Automation Conference (*DAC*), Long Beach, USA, Jul. 26–29, 2026.
 - \[C34\] Donghao Guo, Zhe Lin, *Jianwang Zhai*, Kang Zhao, "Performance Pragma-Based Design Space Pruning and Exploration for High-Level Synthesis", IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May. 24–27, 2026.
 - \[C33\] Mingyu Zhao, Xun He, Jiawei Liu, *Jianwang Zhai\#*, Chuan Shi\#, "Topology Matters in RTL Circuit Representation Learning", International Conference on Learning Representations (*ICLR*), Rio de Janeiro, Brazil, Apr. 23–27, 2026.
 - \[C32\] Xingyu Qin, Guande Dong, *Jianwang Zhai\#*, Kang Zhao, "DynaOpt: A Heterogeneous Logic Optimization Framework with Dynamic Sequence Generation", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–Apr. 22, 2026.
