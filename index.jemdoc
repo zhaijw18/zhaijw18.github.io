@@ -32,16 +32,19 @@ Email: zhaijw@bupt.edu.cn\n
 * denotes equal contribution, \# denotes corresponding author.
 
 === Accepted
+- \[J10\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang, Kang Zhao, Wei Li, Ming Lei, Zhaofeng He\#, "DrlGoFPGA 2.0: FPGA Global Placement Based on Multi-Agent Graph Transformers and Nonlinear Placement Co-Optimization", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 - \[J9\] Jiawei Liu, *Jianwang Zhai\#*, Xun He, Mingyu Zhao, Zhe Lin, Chuan Shi, Bei Yu\#, "PolarGate: Breaking the Functionality Representation Bottleneck of And-Inverter Graph Neural Network", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 - \[J8\] Xinya Luan, Zhe Lin, Kai Shi, Liyang Dou, *Jianwang Zhai*, Kang Zhao, "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis", accepted by ACM Transactions on Reconfigurable Technology and Systems (*TRETS*).
 - \[J7\] Guande Dong\*, Hongtao Cheng\*, *Jianwang Zhai\#*, Xiao Yang, Chuan Shi, Kang Zhao, "ORL-LO: Offline RL for Pre-training and Fine-tuning in Logic Optimization", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 
 === 2026
-- \[C37\] Feng Guo\*, Yueyue Xi\*, Jingyu Jia, Jiawei Liu, Tianshu Hou, Yuyang Ye, *Jianwang Zhai\#*, Kang Zhao, Chuan Shi\#, "GEMIR: Graph-Based Joint Modeling of Electromigration and IR Drop for Power Grid", ACM/IEEE Design Automation Conference (*DAC*), Long Beach, USA, Jul. 26–29, 2026.
+- \[C39\] Hengyuan Zhang, Kanglin Tian, Zirui Li, *Jianwang Zhai\#*, Xiuli Fu, Kang Zhao, "Structural Timing-Aware Circuit Partitioning with Feasibility Constraints for Multi-Chiplet Design", ACM Great Lakes Symposium on VLSI (GLSVLSI), Finger Lakes, USA, Jun. 22–24, 2026.
+- \[C38\] Yujie Zhang, Xiao Yang, Kang Zhao, *Jianwang Zhai*, "Etch-Explorer: A Robust Bayesian Optimization Framework for Stringent Constrained Plasma Etching", ACM Great Lakes Symposium on VLSI (GLSVLSI), Finger Lakes, USA, Jun. 22–24, 2026.
+- \[C37\] Feng Guo\*, Yueyue Xi\*, Jingyu Jia, Jiawei Liu, Tianshu Hou, Yuyang Ye, *Jianwang Zhai\#*, Kang Zhao, Chuan Shi, "GEMIR: Graph-Based Joint Modeling of Electromigration and IR Drop for Power Grid", ACM/IEEE Design Automation Conference (*DAC*), Long Beach, USA, Jul. 26–29, 2026.
 - \[C36\] Zixuan Li\*, Kanglin Tian\*, Fan Hu, Zirui Li, Xinyue Wu, Hengyuan Zhang, Shixin Chen, *Jianwang Zhai\#*, Xinfei Guo\#, Kang Zhao, "ChiPlanner: Physically-Aware and Timing-Driven Design Planner for 2.5D Multi-Chiplet Systems", ACM/IEEE Design Automation Conference (*DAC*), Long Beach, USA, Jul. 26–29, 2026.
 - \[C35\] Donger Luo, Yihong Yi, Xinheng Li, Tianyi Li, *Jianwang Zhai*, Qi Sun, Cheng Zhuo, Hao Geng, "Compilation Tells Energy: Rethinking Power Modeling for DNN Accelerator Agile Design", ACM/IEEE Design Automation Conference (*DAC*), Long Beach, USA, Jul. 26–29, 2026.
 - \[C34\] Donghao Guo, Zhe Lin, *Jianwang Zhai*, Kang Zhao, "Performance Pragma-Based Design Space Pruning and Exploration for High-Level Synthesis", IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May. 24–27, 2026.
-- \[C33\] Mingyu Zhao, Xun He, Jiawei Liu, *Jianwang Zhai\#*, Chuan Shi\#, "Topology Matters in RTL Circuit Representation Learning", International Conference on Learning Representations (*ICLR*), Rio de Janeiro, Brazil, Apr. 23–27, 2026.
+- \[C33\] Mingyu Zhao\*, Xun He\*, Jiawei Liu, *Jianwang Zhai\#*, Chuan Shi\#, "Topology Matters in RTL Circuit Representation Learning", International Conference on Learning Representations (*ICLR*), Rio de Janeiro, Brazil, Apr. 23–27, 2026.
 - \[C32\] Xingyu Qin, Guande Dong, *Jianwang Zhai\#*, Kang Zhao, "DynaOpt: A Heterogeneous Logic Optimization Framework with Dynamic Sequence Generation", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–Apr. 22, 2026.
 - \[C31\] Zhenghao Chen, Yuan Pu, Hairuo Han, Yuntao Nie, Jiajun Qin, Yuhan Qin, Tairu Qiu, Zhuolun He, *Jianwang Zhai\#*, Bei Yu, Kang Zhao, "MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–Apr. 22, 2026.
 - \[C30\] Yingxin Zeng, Binghao Cheng, *Jianwang Zhai*, Kang Zhao, Zhe Lin, "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–Apr. 22, 2026.
@@ -108,8 +111,19 @@ Email: zhaijw@bupt.edu.cn\n
 
 
 == SERVICES
-=== Journal Reviewer
+=== Selected PC Member
+- [https://aaai.org/ AAAI Conference on Artificial Intelligence‌] (AAAI), 2025.
+- [https://iccad.com/ ACM/IEEE International Conference on Computer-Aided Design] (ICCAD), 2026.
+- [https://www.aspdac.com/ ACM/IEEE Asia and South Pacific Design Automation Conference] (ASP-DAC), 2026 (Session Co-Chair).
+- [https://www.icfpt.org/ International Conference on Field Programmable Technology] (FPT), 2025 (Local Arrangement Chair, Session Chair), 2026.
+- [https://www.eda2.com/iseda/ International Symposium of Electronics Design Automation] (ISEDA), 2025, 2026.
+- [https://www.icicm.net/ International Conference on Integrated Circuits and Microsystems] (ICICM), 2026 (Track Chair).
+- CCF Chip Conference, 2026.
+
+===  Selected Journal Reviewer
 - [https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems] (TCAD)
+- [https://dl.acm.org/journal/todaes/ ACM Transactions on Design Automation of Electronic Systems] (TODAES)
+- [https://dl.acm.org/journal/trets/ ACM Transactions on Reconfigurable Technology and Systems] (TRETS)
 - [https://tvlsi.ieee.org/ IEEE Transactions On Very Large Scale Integration (VLSI) Systems] (TVLSI)
 - [https://ieee-cas.org/publication/TCAS-II/ IEEE Transactions on Circuits and Systems Part II: Express Briefs] (TCAS-II)
 - [https://www.sciencedirect.com/journal/integration/ Integration, the VLSI Journal] (VLSIJ)
@@ -117,9 +131,11 @@ Email: zhaijw@bupt.edu.cn\n
 - [https://sscs.ieee.org/publications/ieee-journal-on-exploratory-solid-state-computational-devices-and-circuits-jcdc/ IEEE Journal of Exploratory Solid-State Computational Devices and Circuits] (JXCDC)
 - [https://crad.ict.ac.cn/ Journal of Computer Research and Development] (J-CRAD)
 
-=== Conference Reviewer
+=== Selected Conference Reviewer
 - [https://www.dac.com/ ACM/IEEE Design Automation Conference] (DAC)
-- [https://2024.iccad.com/ ACM/IEEE International Conference on Computer-Aided Design] (ICCAD)
+- [https://iccad.com/ ACM/IEEE International Conference on Computer-Aided Design] (ICCAD)
 - [https://www.date-conference.com/ Design, Automation and Test in Europe] (DATE)
 - [https://www.aspdac.com/ ACM/IEEE Asia and South Pacific Design Automation Conference] (ASP-DAC)
+- [https://www.icfpt.org/ International Conference on Field Programmable Technology] (FPT)
+- [https://ieee-iscas.org/ IEEE International Symposium on Circuits and Systems] (ISCAS)
 - [https://www.eda2.com/iseda/ International Symposium of Electronics Design Automation] (ISEDA)
