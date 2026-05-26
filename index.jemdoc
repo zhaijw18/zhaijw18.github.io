@@ -32,6 +32,7 @@ Email: zhaijw@bupt.edu.cn\n
 * denotes equal contribution, \# denotes corresponding author.
 
 === Accepted
+- \[J11\] Kai Shi, Zhe Lin, Xinya Luan, *Jianwang Zhai*, Kang Zhao, "FVSpGEMM: A Comprehensive Framework for Exploiting Versal ACAP in High-Performance SpGEMM Acceleration", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 - \[J10\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang, Kang Zhao, Wei Li, Ming Lei, Zhaofeng He\#, "DrlGoFPGA 2.0: FPGA Global Placement Based on Multi-Agent Graph Transformers and Nonlinear Placement Co-Optimization", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 - \[J9\] Jiawei Liu, *Jianwang Zhai\#*, Xun He, Mingyu Zhao, Zhe Lin, Chuan Shi, Bei Yu\#, "PolarGate: Breaking the Functionality Representation Bottleneck of And-Inverter Graph Neural Network", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 - \[J8\] Xinya Luan, Zhe Lin, Kai Shi, Liyang Dou, *Jianwang Zhai*, Kang Zhao, "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis", accepted by ACM Transactions on Reconfigurable Technology and Systems (*TRETS*).
@@ -112,8 +113,8 @@ Email: zhaijw@bupt.edu.cn\n
 
 == SERVICES
 === Selected PC Member
-- [https://aaai.org/ AAAI Conference on Artificial Intelligence‌] (AAAI), 2025.
 - [https://iccad.com/ ACM/IEEE International Conference on Computer-Aided Design] (ICCAD), 2026.
+- [https://aaai.org/ AAAI Conference on Artificial Intelligence‌] (AAAI), 2026.
 - [https://www.aspdac.com/ ACM/IEEE Asia and South Pacific Design Automation Conference] (ASP-DAC), 2026 (Session Co-Chair).
 - [https://www.icfpt.org/ International Conference on Field Programmable Technology] (FPT), 2025 (Local Arrangement Chair, Session Chair), 2026.
 - [https://www.eda2.com/iseda/ International Symposium of Electronics Design Automation] (ISEDA), 2025, 2026.
@@ -126,6 +127,7 @@ Email: zhaijw@bupt.edu.cn\n
 - [https://dl.acm.org/journal/trets/ ACM Transactions on Reconfigurable Technology and Systems] (TRETS)
 - [https://tvlsi.ieee.org/ IEEE Transactions On Very Large Scale Integration (VLSI) Systems] (TVLSI)
 - [https://ieee-cas.org/publication/TCAS-II/ IEEE Transactions on Circuits and Systems Part II: Express Briefs] (TCAS-II)
+- [https://www.computer.org/csdl/journal/ec Transactions on Emerging Topics in Computing] (TETC)
 - [https://www.sciencedirect.com/journal/integration/ Integration, the VLSI Journal] (VLSIJ)
 - [https://www.worldscientific.com/worldscinet/jcsc/ Journal of Circuits, Systems, and Computers] (JCSC)
 - [https://sscs.ieee.org/publications/ieee-journal-on-exploratory-solid-state-computational-devices-and-circuits-jcdc/ IEEE Journal of Exploratory Solid-State Computational Devices and Circuits] (JXCDC)
@@ -136,6 +138,8 @@ Email: zhaijw@bupt.edu.cn\n
 - [https://iccad.com/ ACM/IEEE International Conference on Computer-Aided Design] (ICCAD)
 - [https://www.date-conference.com/ Design, Automation and Test in Europe] (DATE)
 - [https://www.aspdac.com/ ACM/IEEE Asia and South Pacific Design Automation Conference] (ASP-DAC)
+- [https://aaai.org/ AAAI Conference on Artificial Intelligence‌] (AAAI)
+- [https://icml.cc/ International Conference on Machine Learning‌] (ICML), Silver Reviewer(2026)
 - [https://www.icfpt.org/ International Conference on Field Programmable Technology] (FPT)
 - [https://ieee-iscas.org/ IEEE International Symposium on Circuits and Systems] (ISCAS)
 - [https://www.eda2.com/iseda/ International Symposium of Electronics Design Automation] (ISEDA)
