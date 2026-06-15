@@ -20,7 +20,6 @@ Email: zhaijw@bupt.edu.cn\n
 
 == RESEARCH INTERESTS
 - Machine Learning for EDA
-- Power Modeling
 - Design Space Exploration
 - Physical Design
 
@@ -32,11 +31,11 @@ Email: zhaijw@bupt.edu.cn\n
 * denotes equal contribution, \# denotes corresponding author.
 
 === Accepted
+- \[J12\] Weiqing Ji, Mingyang Kou, Zhiyang Chen, *Jianwang Zhai*, Ning Xu, Fei Li, Hailong Yao, "Chiplet-Escape: An Efficient Obstacle-Avoiding Escape Routing Method for Die-to-Die Interconnections in Chiplet-Based Designs", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 - \[J11\] Kai Shi, Zhe Lin, Xinya Luan, *Jianwang Zhai*, Kang Zhao, "FVSpGEMM: A Comprehensive Framework for Exploiting Versal ACAP in High-Performance SpGEMM Acceleration", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 - \[J10\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang, Kang Zhao, Wei Li, Ming Lei, Zhaofeng He\#, "DrlGoFPGA 2.0: FPGA Global Placement Based on Multi-Agent Graph Transformers and Nonlinear Placement Co-Optimization", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 - \[J9\] Jiawei Liu, *Jianwang Zhai\#*, Xun He, Mingyu Zhao, Zhe Lin, Chuan Shi, Bei Yu\#, "PolarGate: Breaking the Functionality Representation Bottleneck of And-Inverter Graph Neural Network", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 - \[J8\] Xinya Luan, Zhe Lin, Kai Shi, Liyang Dou, *Jianwang Zhai*, Kang Zhao, "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis", accepted by ACM Transactions on Reconfigurable Technology and Systems (*TRETS*).
-- \[J7\] Guande Dong\*, Hongtao Cheng\*, *Jianwang Zhai\#*, Xiao Yang, Chuan Shi, Kang Zhao, "ORL-LO: Offline RL for Pre-training and Fine-tuning in Logic Optimization", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 
 === 2026
 - \[C39\] Hengyuan Zhang, Kanglin Tian, Zirui Li, *Jianwang Zhai\#*, Xiuli Fu, Kang Zhao, "Structural Timing-Aware Circuit Partitioning with Feasibility Constraints for Multi-Chiplet Design", ACM Great Lakes Symposium on VLSI (GLSVLSI), Finger Lakes, USA, Jun. 22–24, 2026.
@@ -52,6 +51,7 @@ Email: zhaijw@bupt.edu.cn\n
 - \[C29\] Shixin Chen, Hengyuan Zhang, *Jianwang Zhai\#*, Bei Yu\#, "CHASE: A CHiplet Architecture Simulation and Exploration Framework with Decoupled Multi-Fidelity Optimization", ACM International Symposium on Physical Design (*ISPD*), Bonn, Germany, Mar. 15–18, 2026.
 - \[C28\] Yijun Chen, Haoyuan Li, Chunyan Pei, *Jianwang Zhai*, Kang Zhao, Wenjian Yu, "Timing-Aware Optimization of Die-Level Routing and TDM Assignment for Multi-FPGA Systems", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Hong Kong, China, Jan. 19–22, 2026.
 - \[C27\] Zibo Hu, Zhe Lin, Renjing Hou, Xingyu Qin, *Jianwang Zhai*, Kang Zhao, "HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Hong Kong, China, Jan. 19–22, 2026.
+- \[J7\] Guande Dong\*, Hongtao Cheng\*, *Jianwang Zhai\#*, Xiao Yang, Chuan Shi, Kang Zhao, "ORL-LO: Offline RL for Pre-training and Fine-tuning in Logic Optimization", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 31, no. 06, pp. 1-24, 2026.
 
 === 2025
 - \[C26\] Shan Shen, Shenglu Hua, Jiajun Zou, Jiawei Liu, *Jianwang Zhai\#*, Chuan Shi, Wenjian Yu\#, "Transferable parasitic estimation via graph contrastive learning and label rebalancing in AMS circuits", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Munich, Germany, Oct. 26-30, 2025.
