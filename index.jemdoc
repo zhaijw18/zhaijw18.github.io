@@ -31,6 +31,7 @@ Email: zhaijw@bupt.edu.cn\n
 * denotes equal contribution, \# denotes corresponding author.
 
 === Accepted
+- \[J14\] Yingxin Zeng, Binghao Cheng, *Jianwang Zhai*, Kang Zhao, Zhe Lin, "AutoShrink 2.0: Automating Large-Scale Pareto Optimization in HLS via Adaptive and Cost-Aware Search Space Shrinkage", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 - \[J13\] Xinya Luan, Zhe Lin, Kai Shi, *Jianwang Zhai*, Kang Zhao, "HeteroSVD+: Efficient SVD Accelerator on Versal ACAP with Hardware-Aware Design", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 - \[J12\] Weiqing Ji, Mingyang Kou, Zhiyang Chen, *Jianwang Zhai*, Ning Xu, Fei Li, Hailong Yao, "Chiplet-Escape: An Efficient Obstacle-Avoiding Escape Routing Method for Die-to-Die Interconnections in Chiplet-Based Designs", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 - \[J11\] Kai Shi, Zhe Lin, Xinya Luan, *Jianwang Zhai*, Kang Zhao, "FVSpGEMM: A Comprehensive Framework for Exploiting Versal ACAP in High-Performance SpGEMM Acceleration", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
