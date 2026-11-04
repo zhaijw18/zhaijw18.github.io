@@ -35,10 +35,6 @@ Email: zhaijw@bupt.edu.cn\n
 - \[J13\] Xinya Luan, Zhe Lin, Kai Shi, *Jianwang Zhai*, Kang Zhao, "HeteroSVD+: Efficient SVD Accelerator on Versal ACAP with Hardware-Aware Design", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 - \[J12\] Weiqing Ji, Mingyang Kou, Zhiyang Chen, *Jianwang Zhai*, Ning Xu, Fei Li, Hailong Yao, "Chiplet-Escape: An Efficient Obstacle-Avoiding Escape Routing Method for Die-to-Die Interconnections in Chiplet-Based Designs", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 - \[J11\] Kai Shi, Zhe Lin, Xinya Luan, *Jianwang Zhai*, Kang Zhao, "FVSpGEMM: A Comprehensive Framework for Exploiting Versal ACAP in High-Performance SpGEMM Acceleration", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
-- \[J10\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang, Kang Zhao, Wei Li, Ming Lei, Zhaofeng He\#, "DrlGoFPGA 2.0: FPGA Global Placement Based on Multi-Agent Graph Transformers and Nonlinear Placement Co-Optimization", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
-- \[J9\] Jiawei Liu, *Jianwang Zhai\#*, Xun He, Mingyu Zhao, Zhe Lin, Chuan Shi, Bei Yu\#, "PolarGate: Breaking the Functionality Representation Bottleneck of And-Inverter Graph Neural Network", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
-- \[J8\] Xinya Luan, Zhe Lin, Kai Shi, Liyang Dou, *Jianwang Zhai*, Kang Zhao, "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis", accepted by ACM Transactions on Reconfigurable Technology and Systems (*TRETS*).
-
 
 === 2027
 - \[C53\] Shuao Jia, Zichao Ling, Chen Bai, Bei Yu, Kang Zhao, *Jianwang Zhai\#*, "FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo, Jan. 25–28, 2027.
@@ -47,7 +43,7 @@ Email: zhaijw@bupt.edu.cn\n
 - \[C50\] Zichao Ling, Chen Bai, Kang Zhao, *Jianwang Zhai\#*, "UACC: A Chiplet-Based Auxiliary Cache for Cost-Effective Performance Scaling in Multicore Processors", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo, Jan. 25–28, 2027.
 - \[C49\] Yijun Chen, Chunyan Pei, *Jianwang Zhai*, Siwen Song, Huiyao Weng, Jian Shen, Kang Zhao, Wenjian Yu, "Timing-Aware Routing and Heterogeneous TDM Assignment for Multi-Level FPGA-Based Emulation Systems", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo, Jan. 25–28, 2027.
 - \[C48\] Minghao Dong, Junfeng Cai, *Jianwang Zhai*, Fei Zhao, Jiaji He, Kang Zhao, Yongqiang Lyu, "PARFuzzer: Path-Aware RTL Fuzzing with Controlled BTB Conflict Injection for Branch-Predictor Security Validation", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Tokyo, Jan. 25–28, 2027.
-
+- \[J10\] Jiawei Liu, *Jianwang Zhai\#*, Xun He, Mingyu Zhao, Zhe Lin, Chuan Shi, Bei Yu\#, "PolarGate: Breaking the Functionality Representation Bottleneck of And-Inverter Graph Neural Network", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 32, no. 1, pp. 1-27, 2027.
  
 === 2026
 - \[C47\] Ze Hao, *Jianwang Zhai\#*, Ding Gong, Kang Zhao, Wenjian Yu\#, "SwitchSim: A SPICE-like Simulator for Switching Circuits Based on State-driven Unified Branch Stamps", IEEE International Conference on Computer Design (*ICCD*), Hong Kong, Nov. 16–18, 2026.
@@ -71,6 +67,8 @@ Email: zhaijw@bupt.edu.cn\n
 - \[C29\] Shixin Chen, Hengyuan Zhang, *Jianwang Zhai\#*, Bei Yu\#, "CHASE: A CHiplet Architecture Simulation and Exploration Framework with Decoupled Multi-Fidelity Optimization", ACM International Symposium on Physical Design (*ISPD*), Bonn, Germany, Mar. 15–18, 2026.
 - \[C28\] Yijun Chen, Haoyuan Li, Chunyan Pei, *Jianwang Zhai*, Kang Zhao, Wenjian Yu, "Timing-Aware Optimization of Die-Level Routing and TDM Assignment for Multi-FPGA Systems", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Hong Kong, China, Jan. 19–22, 2026.
 - \[C27\] Zibo Hu, Zhe Lin, Renjing Hou, Xingyu Qin, *Jianwang Zhai*, Kang Zhao, "HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Hong Kong, China, Jan. 19–22, 2026.
+- \[J9\] Kang Yang, *Jianwang Zhai\#*, Liuyu Xiang, Kang Zhao, Wei Li, Ming Lei, Zhaofeng He\#, "DrlGoFPGA 2.0: FPGA Global Placement Based on Multi-Agent Graph Transformers and Nonlinear Placement Co-Optimization", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 45, no. 11, pp. 5372-5384, 2026.
+- \[J8\] Xinya Luan, Zhe Lin, Kai Shi, Liyang Dou, *Jianwang Zhai*, Kang Zhao, "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis", ACM Transactions on Reconfigurable Technology and Systems (*TRETS*), vol. 19, no. 3, pp. 1-21, 2026.
 - \[J7\] Guande Dong\*, Hongtao Cheng\*, *Jianwang Zhai\#*, Xiao Yang, Chuan Shi, Kang Zhao, "ORL-LO: Offline RL for Pre-training and Fine-tuning in Logic Optimization", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 31, no. 06, pp. 1-24, 2026.
 
 === 2025
